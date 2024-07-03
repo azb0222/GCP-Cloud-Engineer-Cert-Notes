@@ -1,0 +1,1 @@
+use jellkyl for static site generation 
